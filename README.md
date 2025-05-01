@@ -23,9 +23,9 @@
 
 | Category | Skills |
 |---------|--------|
-| **Programming** | Python (Basic), JavaScript (Basic), HTML |
-| **Data & BI** | Power BI, MySQL |
-| **Dev Tools** | GitHub, VS Code, Lucidchart |
+| **Programming** | Python (Basic), JavaScript (Basic), HTML (Basic) |
+| **Data & BI** | Power BI (Basic), MySQL (Basic) |
+| **Dev Tools** | GitHub, VS Code, Lucidchart (Basic) |
 | **Soft Skills** | Problem-solving, Teamwork, Communication, Time Management |
 
 ---
