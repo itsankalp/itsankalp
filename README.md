@@ -33,9 +33,9 @@
 ### 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SankalpMirajkar&show_icons=true&theme=radical" alt="Sankalp's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SankalpMirajkar&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SankalpMirajkar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsankalp&show_icons=true&theme=radical" alt="Sankalp's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankalp&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsankalp&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -52,11 +52,11 @@
 ### ⚙️ Fun Tools & Widgets
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SankalpMirajkar&theme=darkhub" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsankalp&theme=darkhub" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SankalpMirajkar&bg_color=0d1117&color=00e7ff&line=ffffff&point=00ffe0&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsankalp&bg_color=0d1117&color=00e7ff&line=ffffff&point=00ffe0&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -70,11 +70,6 @@
 
 **Let's connect and grow together!** 🚀  
 [![LinkedIn](https://img.shields.io/badge/-Sankalp%20Mirajkar-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-mirajkar-06486229a/)
-
-
-
-<!--
-**itsankalp/itsankalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
