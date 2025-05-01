@@ -69,5 +69,5 @@
 ---
 
 **Let's connect and grow together!** 🚀  
-[![LinkedIn](https://img.shields.io/badge/-Sankalp%20Mirajkar-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/sankalp-mirajkar-06486229a/](https://www.linkedin.com/in/itsankalp/))
+[![LinkedIn](https://img.shields.io/badge/-Sankalp%20Mirajkar-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itsankalp/)
 
